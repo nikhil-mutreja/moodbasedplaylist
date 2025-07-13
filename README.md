@@ -17,13 +17,7 @@ This is a Python-based GUI application that plays music based on the user's faci
 
 ---
 
-## 🖼️ GUI Preview
 
-> Designed using `Tkinter` and `ttkbootstrap` in dark mode.
-
-![App Screenshot](https://user-images.githubusercontent.com/your-placeholder/screenshot.png)
-
----
 
 ## 🚀 Getting Started
 
